@@ -38,7 +38,7 @@ He implementado una opción de lectura recursiva para ver la relación 1:M entre
 Al insertar un `Libro`, se maneja la asignación de su `Autor` de forma interactiva:
 
 * **`añadir Libro`**: Inserta un libro nuevo dejando el campo `Autor` como `NULL`.
-* **`añadir -r Libro`**: Permite seleccionar un autor existente de la BD. Además, ofrece la opción de **crear un nuevo `Autor`** si no existe y asignarlo inmediatamente al nuevo `Libro`. Ambas entidades se persisten en la base de datos en esta operación.
+* **`añadir -r Libro`**: Permite seleccionar un autor existente de la BD. Además, te da la opción de **crear un nuevo `Autor`** si no existe y asignarlo inmediatamente al nuevo `Libro`. Ambas entidades se persisten en la base de datos en esta operación, pero no solo se aplica a estas 2:
 
 * Todas las entidades de la Base de Datos funcionan de esta manera al ser modificadas, todo esta relacionado y **se pueden editar cualquier entidad desde el CRUD de `Libro` implementado**
 * Por ejemplo, al crear un **`Libro`** podemos crear un **`Usuario nuevo`**, y a su vez **se nos creará automáticamente su respectiva `Tarjeta`**
