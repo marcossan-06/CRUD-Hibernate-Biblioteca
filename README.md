@@ -4,7 +4,7 @@
 
 Este proyecto es una implementación en **Java** utilizando el framework **Hibernate** para la gestión de una base de datos relacional de una **Biblioteca** (`MySQL`). El objetivo principal ha sido dominar las operaciones **CRUD** (Create, Read, Update, Delete) y la correcta gestión y mapeo de las tres principales tipos de **relaciones** entre entidades: **1:1, 1:M y N:M**.
 
-El proyecto demuestra cómo modelar y persistir estructuras de datos complejas con la temática de una biblioteca, con usuarios, autores y libros y las relaciones entre ellos.
+El proyecto demuestra cómo modelar y persistir estructuras de datos complejas con la temática de una biblioteca, con usuarios, autores, libros y las relaciones entre ellos.
 
 ## 🛠️ Tecnología
 * **Lenguaje:** Java (JDK 24)
