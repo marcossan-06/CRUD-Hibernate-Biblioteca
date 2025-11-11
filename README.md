@@ -47,4 +47,4 @@ Por ejemplo, al crear un **`Libro`** podemos crear un **`Usuario nuevo`**, y a s
 
 1.  **Clonar el Repositorio.**
 2.  **Configurar MySQL:** Ejecutar el script SQL de la base de datos `Biblioteca` (incluido en el repositorio) para crear la estructura de la BD e insertar los datos de ejemplo.
-3.  **Ejecución:** Ejecuta la clase principal e interactúa con el menú de la consola. Los logs y el SQL de Hibernate estan desactivados para una vista más limpia), se pueden reactivar desde el archivo de **logback.xml** y **persistence.xml** del proyecto.
+3.  **Ejecución:** Ejecuta la clase principal e interactúa con el menú de la consola. Los logs y el SQL de Hibernate están desactivados para una vista más limpia, se pueden reactivar desde el archivo de **logback.xml** y **persistence.xml** del proyecto.
