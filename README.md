@@ -1,4 +1,4 @@
-# 📚 Gestión de Biblioteca (CRUD Hbiernate)
+# 📚 Gestión de Biblioteca (CRUD Hibernate)
 
 ## Resumen del Proyecto
 
